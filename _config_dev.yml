@@ -1,10 +1,10 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
+name: Marcin Staszewski
+title: Marcin Staszewski | Full Stack Software Engineer
 description: Design-minded, detail oriented software engineer passionate about combining beautiful code with beautiful design.
-url: http://brittanychiang.com/
+url: http://marcinstaszewski.com/
 baseurl: ""
-email: brittany.chiang@gmail.com
+email: marcin@marcinstaszewski.com
 cover: http://brittanychiang.com/v2/img/og.jpg
 logo: http://brittanychiang.com/v2/img/logo-black.png
 resume: http://brittanychiang.com/v2/resume.pdf

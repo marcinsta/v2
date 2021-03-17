@@ -1,13 +1,19 @@
 development:
   - item: JavaScript
-  - item: HTML5
   - item: CSS3
-  - item: Jekyll
   - item: Python
   - item: React
-  - item: Backbone
-  - item: Node.js
   - item: Angular
+  - item: Node.js
+  - item: PHP
+  - item: Java
+  - item: Scala
+  - item: C/C++
+  - item: Webpack
+  - item: Typescript
+  - item: Android
+  - item: MYSQL
+  - item: MongoDB
 
 design:
   - item: sketch
@@ -15,6 +21,13 @@ design:
   - item: adobe-indesign
   - item: adobe-illustrator
   - item: invision
+
+devops:
+  - item: Amazon Web Services
+  - item: Hashicorp Terraform
+  - item: Jenkins CI/CD
+  - item: Docker / Kubernetes
+  - item: Chef/ Ansible
 
 tools:
   - item: Git + Github
@@ -24,8 +37,9 @@ tools:
   - item: Postman
 
 knowledge:
-  - item: CSS Detangling
-  - item: ECMAScript 6
-  - item: Usability
-  - item: SEO
-  - item: TDD
+  - item: Agile Programming
+  - item: Functional Programming
+  - item: Salesforce Development
+  - item: Test Driven Development
+  - item: Service Oriented Architecture
+  - item: Object Oriented Architecture

@@ -1,4 +1,4 @@
-const eslint   = require('gulp-eslint');
+//const eslint   = require('gulp-eslint');
 const babel    = require('gulp-babel');
 const uglify   = require('gulp-uglify');
 const pump     = require('pump');
@@ -21,9 +21,9 @@ module.exports = gulp => {
 
   gulp.task( 'scripts', () => {
     return gulp.src( jsPath )
-    .pipe( eslint( {
-      useEslintrc: true
-    } ) )
+    //.pipe( eslint( {
+    //  useEslintrc: true
+    //} ) )
     // .pipe( eslint.format() )
     .pipe(babel({
       presets: ['es2015']

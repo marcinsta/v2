@@ -1,19 +1,19 @@
-- position: Northeastern University
-  company: NU College of Computer &amp; Information Science
-  url: http://www.ccis.northeastern.edu/program/information-science-bs/
-  description: Candidate for Bachelor of Science in Information Science with a concentration in Human Computer Interaction (HCI) and a minor in Interaction Design. <strong>Graduating in May 2018.</strong>
+- position: Opole University of Technology
+  company: Computer Networks & Database Systems
+  url: https://weaii.po.edu.pl/eng/index.php/fields-of-study/computer-engineering
+  description: Candidate for Bachelor of Science in Information Science with a concentration in Human Computer Interaction (HCI) and a minor in Interaction Design.
   sprite: university
-  date: 2013 - Present
+  date: 2005 - 2010
 
-- position: HCI Research Assistant
-  company: NU College of Computer &amp; Information Science
+- position: Network & Systems Administrator
+  company: S&T Service Poland
   url: http://www.ccis.northeastern.edu/
   description: Assisted a computer science PhD student in the development of a software prototype built with HTML, CSS, JavaScript, and jQuery to facilitate better understanding of parent-child communication preferences in low-SES (Socio-Economic Status) families. Developed remotely to meet weekly deadlines and project checkpoints.
   sprite: research
   date: Mar - May 2015
 
-- position: Creative Technologist Co-op
-  company: MullenLowe U.S.
+- position: Junior Web Developer
+  company: Somm
   url: http://us.mullenlowe.com/
   description: Developed and maintained code for in-house and client websites. Tested front-end code in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness. Collaborated closely with other developers and digital producers to meet deadlines for clients including Lovesac, U.S. Cellular, JetBlue, and more.
   sprite: industry
